@@ -7,7 +7,7 @@ When you want a custom bot for your Discord server, but can't code!
 * Next to `token:`, put your bot token between the `""` (TL; DR on how to get it, go to [this website](https://discord.com/developers/applications), New Application, Bot, New Bot, Regenerate)
 * Next to `prefixes:`, put your prefixes in quotes with the prefixes separated by commas, for example
 ```yaml
-prefix: ["!", "pls"]
+prefixes: ["!", "-"]
 ```
 * Next to `owners:`, put the **ID** of the owners **without quotes** separated by commas, for example
 ```yaml
