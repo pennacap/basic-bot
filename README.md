@@ -5,7 +5,7 @@ When you want a custom bot for your Discord server, but can't code!
 * Clone the bot's repository (look it up)
 * Open the `config.yml` file
 * Next to `token:`, put your bot token between the `""` (TL; DR on how to get it, go to [this website](https://discord.com/developers/applications), New Application, Bot, New Bot, Regenerate)
-* Next to `prefix:`, put your prefixes in quotes with the prefixes separated by commas, for example
+* Next to `prefixes:`, put your prefixes in quotes with the prefixes separated by commas, for example
 ```yaml
 prefix: ["!", "pls"]
 ```
